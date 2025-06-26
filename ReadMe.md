@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Bioinformatics Master's student at Indiana University Indianapolis with a deep focus on Machine Learning and Database operations
-
+As a graduate student in the accelerated 4+1 Bioinformatics program at Indiana University Indianapolis, I am passionate about leveraging computational methods to solve complex problems in biomedical research and healthcare. My experience spans developing scalable ETL frameworks for clinical data, designing modular bioinformatics software, and optimizing large-scale data processing pipelines. I have contributed to the creation of a comprehensive CRISPR-Cas protein database and am leading the development of a full-stack web portal to support genomic research. With a strong foundation in programming (R, Python, SQL, HTML, CSS, JavaScript), cloud and HPC environments, and hands-on laboratory research, I am committed to advancing data-driven solutions in the life sciences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddharth-rajesh-24716a24b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharth.rajesh03@gmail.com) 
