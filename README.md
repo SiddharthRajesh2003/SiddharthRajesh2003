@@ -1,5 +1,11 @@
 # 💫 About Me:
-As a graduate student in the accelerated 4+1 Bioinformatics program at Indiana University Indianapolis, I am passionate about leveraging computational methods to solve complex problems in biomedical research and healthcare. My experience spans developing scalable ETL frameworks for clinical data, designing modular bioinformatics software leveraging Nextflow, and optimizing large-scale data processing pipelines. I have contributed to the creation of a comprehensive CRISPR-Cas protein database and am leading the development of a full-stack web portal to support genomic research. With a strong foundation in programming (R, Python, SQL, HTML, CSS, JavaScript), cloud and HPC environments, and hands-on laboratory research, I am committed to advancing data-driven solutions in the life sciences.
+As a Graduate student pursuing MS Bioinformatics at Indiana University Indianapolis, I specialize in developing computational tools and pipelines that bridge genomics, data science, and translational research. My experience spans the full bioinformatics workflow—from designing scalable databases and building automated and reproducible pipelines to creating user-facing platforms that democratize access to complex biological datasets.
+
+I am currently developing a Curvature Aware GNN network that leverages graph data and a custom curvature constrained message passing algorithm to predict potential driver genes in cancer.
+
+In collaboration with Indiana University Health, I developed OMOP_server, an ETL framework that standardizes clinical data into the OMOP Common Data Model. This work highlights my expertise in integrating healthcare and genomic data systems to support precision medicine initiatives and clinical research.
+
+With proficiency in Python, R, SQL, Nextflow, shell scripting, and experience in both HPC and cloud computing environments, I bring strong computational skills combined with an understanding of biological research needs. I am passionate about developing robust bioinformatics infrastructure that accelerates discovery and translates genomic insights into clinical impact.
 
 
 ## 🌐 Socials:
