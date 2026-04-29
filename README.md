@@ -17,6 +17,7 @@ With proficiency in Python, R, SQL, Nextflow, shell scripting, and experience in
 ![](https://github-readme-stats.vercel.app/api?username=SiddharthRajesh2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SiddharthRajesh2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthRajesh2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SiddharthRajesh2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
