@@ -1,11 +1,20 @@
 # 💫 About Me:
-As a Graduate student pursuing MS Bioinformatics at Indiana University Indianapolis, I specialize in developing computational tools and pipelines that bridge genomics, data science, and translational research. My experience spans the full bioinformatics workflow—from designing scalable databases and building automated and reproducible pipelines to creating user-facing platforms that democratize access to complex biological datasets.
 
-I am currently developing a Curvature Aware GNN network that leverages graph data and a custom curvature constrained message passing algorithm to predict potential driver genes in cancer.
+MS Bioinformatics student at Indiana University Indianapolis, specializing in computational tools and pipelines that bridge genomics, data science, and translational research. My work spans the full bioinformatics stack — from scalable databases and reproducible pipelines to user-facing platforms that make complex biological datasets accessible to researchers.
 
-In collaboration with Indiana University Health, I developed OMOP_server, an ETL framework that standardizes clinical data into the OMOP Common Data Model. This work highlights my expertise in integrating healthcare and genomic data systems to support precision medicine initiatives and clinical research.
+## Current Work
 
-With proficiency in Python, R, SQL, Nextflow, shell scripting, and experience in both HPC and cloud computing environments, I bring strong computational skills combined with an understanding of biological research needs. I am passionate about developing robust bioinformatics infrastructure that accelerates discovery and translates genomic insights into clinical impact.
+- **DriverJinn** — A topology-aware graph neural network leveraging a curvature-constrained message passing algorithm to predict driver genes in cancer, integrating mutation frequency, DNA methylation, and gene expression data from TCGA and GTEx.
+- **OMOP_server** — An ETL framework developed in collaboration with Indiana University Health that standardizes clinical data into the OMOP Common Data Model, supporting precision medicine and clinical research initiatives.
+- **nf-scrna-seq** — A portable, reproducible Nextflow pipeline harmonizing scRNA-seq and snRNA-seq analysis workflows, containerized with Apptainer for HPC deployment.
+
+## Skills
+
+**Languages:** Python · R · SQL · Shell  
+**Frameworks & Tools:** Nextflow · Scanpy · Seurat · PyTorch Geometric · Flask · R Shiny · Streamlit  
+**Infrastructure:** HPC (SLURM) · AWS S3 · Docker · Apptainer · Git  
+**Domains:** Single-cell genomics · Clinical data standards · Graph neural networks · Database design
+
 
 
 ## 🌐 Socials:
