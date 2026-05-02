@@ -12,7 +12,7 @@ MS Bioinformatics student at Indiana University Indianapolis, specializing in co
 
 **Languages:** Python · R · SQL · Shell  
 **Frameworks & Tools:** Nextflow · Scanpy · Seurat · PyTorch Geometric · Flask · R Shiny · Streamlit  
-**Infrastructure:** HPC (SLURM) · AWS S3 · Docker · Apptainer · Git  
+**Infrastructure:** HPC (SLURM) · Docker · Apptainer · Git  
 **Domains:** Single-cell genomics · Clinical data standards · Graph neural networks · Database design
 
 
