@@ -1,7 +1,9 @@
 # 💫 About Me:
 
-Hi, I'm Siddharth Rajesh 👋
+👋 Hi, I'm Siddharth Rajesh 
+
 M.S. in Bioinformatics | B.S. in Biomedical Informatics | Indiana University Indianapolis
+
 I build computational tools at the intersection of machine learning and cancer genomics. My work focuses on developing deep learning architectures for biological discovery, reproducible NGS pipelines for multi-omics analysis, and full-stack web applications for genomic data access.
 
 ## Current Work
