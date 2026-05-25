@@ -6,10 +6,10 @@ I build computational tools at the intersection of machine learning and cancer g
 
 ## Current Work
 
-🧬 DriverJinn — A curvature-aware graph neural network for cancer driver gene prediction integrating mutation, methylation, expression, and network topology data across 10,000+ genes. Achieved AUROC of 0.81 and identified a novel chromatin remodeling gene cluster (SIN3A, HDAC1/2, SMARCC1/2, RBBP4, KMT2E) as candidate drivers absent from the Cancer Gene Census.
-🔬 Spatial Transcriptomics — Mapped cell-cell interactions in the GBM tumor microenvironment by integrating scRNA-seq with Visium CytAssist spatial data using scVI, Cell2location, and Squidpy. Demonstrated CD8 T cell spatial exclusion (z = −51.33) and characterized immunosuppressive signaling axes driving immune avoidance.
-🧪 Nextflow NGS Pipelines — End-to-end containerized workflows for scRNA-seq (Cell Ranger, Seurat v5, 100K+ cells), ChIP-seq/ATAC-seq (MACS3, HOMER, MEME Suite), and long-read DNA variant calling (Minimap2, Clair3, VEP), all deployed on HPC clusters with Docker/Apptainer.
-🗄️ CASPRAtlas — A MySQL-backed Flask web portal consolidating 110+ CRISPR-Cas datasets across 24 protein orthologs with dynamic querying and interactive data exploration.
+- 🧬 DriverJinn — A curvature-aware graph neural network for cancer driver gene prediction integrating mutation, methylation, expression, and network topology data across 10,000+ genes. Achieved AUROC of 0.81 and identified a novel chromatin remodeling gene cluster (SIN3A, HDAC1/2, SMARCC1/2, RBBP4, KMT2E) as candidate drivers absent from the Cancer Gene Census.
+- 🔬 Spatial Transcriptomics — Mapped cell-cell interactions in the GBM tumor microenvironment by integrating scRNA-seq with Visium CytAssist spatial data using scVI, Cell2location, and Squidpy. Demonstrated CD8 T cell spatial exclusion (z = −51.33) and characterized immunosuppressive signaling axes driving immune avoidance.
+- 🧪 Nextflow NGS Pipelines — End-to-end containerized workflows for scRNA-seq (Cell Ranger, Seurat v5, 100K+ cells), ChIP-seq/ATAC-seq (MACS3, HOMER, MEME Suite), and long-read DNA variant calling (Minimap2, Clair3, VEP), all deployed on HPC clusters with Docker/Apptainer.
+- 🗄️ CASPRAtlas — A MySQL-backed Flask web portal consolidating 110+ CRISPR-Cas datasets across 24 protein orthologs with dynamic querying and interactive data exploration.
 
 ## Skills
 
