@@ -1,12 +1,15 @@
 # 💫 About Me:
 
-MS Bioinformatics student at Indiana University Indianapolis, specializing in computational tools and pipelines that bridge genomics, data science, and translational research. My work spans the full bioinformatics stack — from scalable databases and reproducible pipelines to user-facing platforms that make complex biological datasets accessible to researchers.
+Hi, I'm Siddharth Rajesh 👋
+M.S. in Bioinformatics | B.S. in Biomedical Informatics | Indiana University Indianapolis
+I build computational tools at the intersection of machine learning and cancer genomics. My work focuses on developing deep learning architectures for biological discovery, reproducible NGS pipelines for multi-omics analysis, and full-stack web applications for genomic data access.
 
 ## Current Work
 
-- **DriverJinn** — A topology-aware graph neural network leveraging a curvature-constrained message passing algorithm to predict driver genes in cancer, integrating mutation frequency, DNA methylation, and gene expression data from TCGA and GTEx.
-- **OMOP_server** — An ETL framework developed in collaboration with Indiana University Health that standardizes clinical data into the OMOP Common Data Model, supporting precision medicine and clinical research initiatives.
-- **nf-scrna-seq** — A portable, reproducible Nextflow pipeline harmonizing scRNA-seq and snRNA-seq analysis workflows, containerized with Apptainer for HPC deployment.
+🧬 DriverJinn — A curvature-aware graph neural network for cancer driver gene prediction integrating mutation, methylation, expression, and network topology data across 10,000+ genes. Achieved AUROC of 0.81 and identified a novel chromatin remodeling gene cluster (SIN3A, HDAC1/2, SMARCC1/2, RBBP4, KMT2E) as candidate drivers absent from the Cancer Gene Census.
+🔬 Spatial Transcriptomics — Mapped cell-cell interactions in the GBM tumor microenvironment by integrating scRNA-seq with Visium CytAssist spatial data using scVI, Cell2location, and Squidpy. Demonstrated CD8 T cell spatial exclusion (z = −51.33) and characterized immunosuppressive signaling axes driving immune avoidance.
+🧪 Nextflow NGS Pipelines — End-to-end containerized workflows for scRNA-seq (Cell Ranger, Seurat v5, 100K+ cells), ChIP-seq/ATAC-seq (MACS3, HOMER, MEME Suite), and long-read DNA variant calling (Minimap2, Clair3, VEP), all deployed on HPC clusters with Docker/Apptainer.
+🗄️ CASPRAtlas — A MySQL-backed Flask web portal consolidating 110+ CRISPR-Cas datasets across 24 protein orthologs with dynamic querying and interactive data exploration.
 
 ## Skills
 
